@@ -1,5 +1,8 @@
 # Large-scale-system-design-vol.2
 
+![study_book](https://github.com/ilgolf/Large-scale-system-design-vol.2/assets/77387861/c4c73e9e-6be4-4c6c-bf1d-e2e1ce1af992)
+
+
 ## Study Rule 
 ---
 - select a presenter on the day of the announcement.
